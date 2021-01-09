@@ -1,11 +1,6 @@
 # Desktop Info
 
-Desktop Info is a plugin to get on device information from desktop OS environments, currently onlt **MacOS** is Support, feel free to make PRs for others. 
-## 📸 Screen Shots
-
-<p float="left">
-<img src="https://github.com/Zfinix/desktop_info/blob/main/meta/macos.png?raw=true" width="200">
-</p>
+Desktop Info is a plugin to get on device information from desktop OS environments, currently only **MacOS** is Support, feel free to make PRs for others. 
 
 ### 🚀 Usage
 
@@ -42,7 +37,7 @@ You might need to add the following to `Release.entitlements` file.
 or just check as follows 
 
 <p float="left">
-<img src="https://github.com/Zfinix/desktop_info/blob/main/meta/img.png?raw=true" width="639">
+<img src="https://github.com/Zfinix/desktop_info/blob/main/meta/img.png?raw=true" width="300">
 </p>
 
 
